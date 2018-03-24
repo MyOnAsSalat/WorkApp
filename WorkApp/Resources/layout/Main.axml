@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <Button
+        android:text="Загрузить"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/load_data_button"
+        android:onClick="LoadButtonOnClick" />
+    <ScrollView
+        android:layout_weight="20"
+        android:fillViewport="true"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:dividerHeight="5dp"
+            android:id="@+id/data_list_view" />
+    </ScrollView>
+</LinearLayout>

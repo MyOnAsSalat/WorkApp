@@ -1,0 +1,8 @@
+WorkApp.MainActivity, WorkApp;md5b6ed8849ea5e3ba91424f261b8f33a8f.MainActivity
+WorkApp.MainActivity, WorkApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b6ed8849ea5e3ba91424f261b8f33a8f.MainActivity
+WorkApp.MainActivity;md5b6ed8849ea5e3ba91424f261b8f33a8f.MainActivity
+workapp.MainActivity;md5b6ed8849ea5e3ba91424f261b8f33a8f.MainActivity
+WorkApp.csharp.CusotmListAdapter, WorkApp;md54f84bd4db825d3a2266ce1f232d105d5.CusotmListAdapter
+WorkApp.csharp.CusotmListAdapter, WorkApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54f84bd4db825d3a2266ce1f232d105d5.CusotmListAdapter
+WorkApp.csharp.CusotmListAdapter;md54f84bd4db825d3a2266ce1f232d105d5.CusotmListAdapter
+workapp.csharp.CusotmListAdapter;md54f84bd4db825d3a2266ce1f232d105d5.CusotmListAdapter
